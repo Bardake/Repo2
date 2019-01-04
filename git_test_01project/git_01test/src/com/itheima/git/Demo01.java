@@ -17,5 +17,8 @@ public class Demo01 {
             System.out.println(i);
         }
     }
+    public static void test01(){
+        System.out.println("结束...");
+    }
 }
 
